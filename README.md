@@ -60,17 +60,21 @@ accuracy
 
 ## DATA HEAD:
 
+
 ![image](https://github.com/VIKRAMK21062005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120624033/570e6114-4c48-41d5-ac2a-ef30130ab0eb)
 
 ## DATA.isnull().Sum()
+
 
 ![image](https://github.com/VIKRAMK21062005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120624033/f6c68a14-012e-4277-9a8e-2cbec7197e4a)
 
 ## Y.Pred():
 
+
 ![image](https://github.com/VIKRAMK21062005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120624033/de7c7b34-0a1c-46ef-bb7c-26335682ed62)
 
 ## Accuracy:
+
 
 ![image](https://github.com/VIKRAMK21062005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120624033/bf806ce0-9818-417a-a688-cea985d3d763)
 
